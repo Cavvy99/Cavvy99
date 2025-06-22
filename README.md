@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey there, I’m Keketso
 
-<!--
-**Cavvy99/Cavvy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner coder with a passion for web and app development. 
+Currently working as an assistant teacher in a high school while learning to build awesome things online.
 
-Here are some ideas to get you started:
+### ✨ About Me
+- 🎶 I love music
+- ⛪ I enjoy going to church
+- 💻 Learning HTML & CSS — and more on the way!
+- 📱 Excited to dive into mobile and web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with Me
+- 📧 Email: keketsohope99@gmail.com 
+- 📸 Instagram: [@cav.vy](https://instagram.com/cav.vy)
+
+---
+
+Thanks for visiting my GitHub! 🚀
